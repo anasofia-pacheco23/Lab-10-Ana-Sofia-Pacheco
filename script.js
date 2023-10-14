@@ -274,6 +274,17 @@ const movies = [
         },
         section: "Trend",
     },
+    {
+        name: "Never Have I Ever",
+        description: "Never Have I Ever is the series about the life of Devi, an American teenager of Indian origin. Devi gets very good grades, but she has a major problem: she has a hard time socializing because of her ambition and her very bad temper. Devi prays to the gods to be able to change this and to change all the bad things that happened the previous year, which were quite...",
+        rating: 4.4,
+        clasification: "13+",
+        image: {
+            banner: "https://www.formulatv.com/images/series/2000/2292-f.jpg",
+            card: "https://pics.filmaffinity.com/Yo_nunca_Serie_de_TV-750364110-large.jpg",
+        },
+        section: "Trend",
+    },
 ];
 
 const recommendedList = document.querySelector("#recommended");
